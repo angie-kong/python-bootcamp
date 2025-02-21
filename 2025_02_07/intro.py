@@ -29,3 +29,5 @@ elif age == 21:
     print("Almost")
 else:
     print("You're not an adult")
+
+    #next time - functions and lists and dictionaries
